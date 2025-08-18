@@ -1,7 +1,9 @@
 # Curso de Programación en Python nivel Intermedio
 
 **Nombre del Estudiante:** Roger Villa
+
 **Curso:** Programación II
+
 **Tecnología:** Python  
 
 ---
